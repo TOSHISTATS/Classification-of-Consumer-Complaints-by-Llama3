@@ -9,6 +9,10 @@ The categories can be 'Mortgage', 'Checking or savings account', 'Student loan',
 
 
 
+![Screenshot 2024-04-28 14 21 44](https://github.com/TOSHISTATS/Classification-of-Consumer-Complaints-by-Llama3/assets/28681557/bd1b7930-d129-4055-ae16-b4b93ecdb4b7)
+
+
+
 
 
 
