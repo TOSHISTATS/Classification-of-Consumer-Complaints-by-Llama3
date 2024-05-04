@@ -6,7 +6,8 @@ This is a classification model for customer complaints in financial industries. 
 The categories can be 'Mortgage', 'Checking or savings account', 'Student loan', 'Money transfer, virtual currency, or money service', 'Bank account or service', 'Consumer Loan'.
 
 
-以下は、金融業界における顧客の苦情を分類するための分類モデルです。このモデルは、6つの製品クラスを分類することができます。サンプル数は500です。精度は88.6%(70Bモデル)、78.0%(8Bモデル)です。
+以下は、金融業界における顧客の苦情を分類するための分類モデルです。このモデルは、6つの製品クラスを分類することができます。サンプル数は500です。精度は88.6%(70Bモデル)、78.0%(8Bモデル)です。(日本語データ　精度は82.8%(70Bモデル)、7.%(8Bモデル)です)
+
 
 分類カテゴリは以下の通りです。
 - 住宅ローン
