@@ -1,12 +1,12 @@
 # Classification-of-Consumer-Complaints-by-Llama3 (Llama3 による消費者クレームの分類)
 
 
-This is a classification model for customer complaints in financial industries. It can classify six classes of products. Number of samples is 500. Accuracy is 88.6%(70B model), 78.0%(8B model).
+This is a classification model for customer complaints in financial industries. It can classify six classes of products. Number of samples is 500. Accuracy is 88.6%(70B model), 77.8%(8B model).
 
 The categories can be 'Mortgage', 'Checking or savings account', 'Student loan', 'Money transfer, virtual currency, or money service', 'Bank account or service', 'Consumer Loan'.
 
 
-以下は、金融業界における顧客の苦情を分類するための分類モデルです。このモデルは、6つの製品クラスを分類することができます。サンプル数は500です。精度は88.6%(70Bモデル)、78.0%(8Bモデル)です。(日本語データ　精度は82.8%(70Bモデル)、7.%(8Bモデル)です)
+以下は、金融業界における顧客の苦情を分類するための分類モデルです。このモデルは、6つの製品クラスを分類することができます。サンプル数は500です。精度は88.6%(70Bモデル)、77.8%(8Bモデル)です。(日本語データ　精度は82.8%(70Bモデル)、64.6%(8Bモデル)です)
 
 
 分類カテゴリは以下の通りです。
